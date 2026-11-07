@@ -1,0 +1,4 @@
+Open https://www.selenium.dev/selenium/web/web-form.html
+Enter Vasudev in the Text input field.
+Click the Submit button.
+Verify that the Received! text is visible.
